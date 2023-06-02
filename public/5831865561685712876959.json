@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "260449353539",
+    "project_id": "sultan-usd",
+    "storage_bucket": "sultan-usd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260449353539:android:fe45d3bdac0d0137bf39f6",
+        "android_client_info": {
+          "package_name": "com.ConsultarPis.pasep.abono.salarial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260449353539-glpc543iff789pt122mpnsvqkvoautqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNdwKNShtrsVDRkxiT0lyab0YTsq1K04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260449353539-glpc543iff789pt122mpnsvqkvoautqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260449353539:android:843004903b0b0271bf39f6",
+        "android_client_info": {
+          "package_name": "com.sultanusd.consultareciboluz.cfeguia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260449353539-glpc543iff789pt122mpnsvqkvoautqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNdwKNShtrsVDRkxiT0lyab0YTsq1K04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260449353539-glpc543iff789pt122mpnsvqkvoautqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
